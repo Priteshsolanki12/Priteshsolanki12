@@ -1,6 +1,5 @@
 ## Hi Im pritesh👋
 
-<h1>hello</h1>
 
 <!--
 **Priteshsolanki12/Priteshsolanki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
