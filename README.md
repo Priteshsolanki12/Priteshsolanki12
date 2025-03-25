@@ -24,5 +24,6 @@ I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion fo
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/priteshsolanki226/)
-- Email: solankipritesh226@gmail.com 
+- Email: solankipritesh226@gmail.com
+- 
 
