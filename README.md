@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for building dynamic and responsive web applications. I love to learn new technologies and improve my skills.
 
-## 🚀 Technologies & Tools
+## <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" width="50" height="50" alt="Rocket GIF" style="margin-top: 10px;"> Technologies & Tools
 - **Frontend:**
   - React.js
   - HTML5
