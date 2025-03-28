@@ -18,6 +18,7 @@ I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion fo
     - Git & GitHub
     - Postman
     - Visual Studio Code
+   
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/priteshsolanki226/)(https://www.linkedin.com/in/priteshsolanki226/)
