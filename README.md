@@ -18,6 +18,7 @@ I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion fo
     - Git & GitHub
     - Postman
     - Visual Studio Code
+    - Figma
    
 
 ## 📫 How to reach me
