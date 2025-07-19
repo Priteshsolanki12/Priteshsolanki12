@@ -9,6 +9,7 @@ I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion fo
     - HTML5
     - CSS3
     - JavaScript (ES6+)
+    - Next js
  - **Backend:**       
     - Node.js
     - Express.js
