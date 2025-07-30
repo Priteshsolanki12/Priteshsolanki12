@@ -1,7 +1,13 @@
 # Hi there, I'm Pritesh Solanki
 
 ## 👨‍💻 About Me
-I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for building dynamic and responsive web applications. I love to learn new technologies and improve my skills.
+🚀 MERN Stack Developer | 💻 Passionate Coder | 🌱 Lifelong Learner
+
+Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who loves building dynamic, responsive, and user-friendly web applications. I’m always exploring new technologies, improving my skills, and solving real-world problems through code.
+
+🔧 Focused on writing clean, maintainable code
+🌐 Enthusiastic about full-stack development and modern web tools
+📚 Constantly learning and contributing to open-source
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritesh_x07_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankipritesh226@gmail.com) 
