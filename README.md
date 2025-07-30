@@ -1,7 +1,6 @@
 # Hi there, I'm Pritesh Solanki
 
 ## 👨‍💻 About Me
-🚀 MERN Stack Developer | 💻 Passionate Coder | 🌱 Lifelong Learner
 
 🚀 MERN Stack Developer | 💻 Passionate Coder | 🌱 Lifelong Learner | 🧠 DSA Enthusiast
 
