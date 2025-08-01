@@ -40,7 +40,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 ![](https://github-contributor-stats.vercel.app/api?username=Priteshsolanki12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Priteshsolanki12&icon=4&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/Priteshsolanki12/Priteshsolanki12/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
