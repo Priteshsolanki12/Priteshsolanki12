@@ -44,12 +44,6 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 </div>
 
 ###
-### 🔝 Top Contributed Repo
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Priteshsolanki12&limit=5&theme=dark&combine_all_yearly_contributions=true"  width="500"  />
-
-</div>
 
 ---
 ---
