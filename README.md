@@ -38,12 +38,22 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 
 ## 🏆 GitHub Trophies
-###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Priteshsolanki12&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<a href="https://github.com/Priteshsolanki12"> <div align=center>
+  ![](https://github-trophies.vercel.app/?username=Priteshsolanki12&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+  </div>
+</a><br>
 
-###
+## 📈 GitHub Contribution Chart
+<!-- <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p> -->
+
+<div align="center">
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Priteshsolanki12&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)
+
+</div>
 
 ---
 ---
@@ -58,6 +68,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 
 
+---
 ---
 
 
