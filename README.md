@@ -1,7 +1,7 @@
-# Hi there, I'm Pritesh Solanki
+<h1 align="center">Hi 👋, I'm Pritesh solanki</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 ## 👨‍💻 About Me
-
 
 
 🚀 MERN Stack Developer | 💻 Passionate Coder | 🌱 Lifelong Learner | 🧠 DSA Enthusiast
