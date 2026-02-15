@@ -5,6 +5,7 @@
 ## 👨‍💻 About Me
 
 
+
 🚀 MERN Stack Developer | 💻 Passionate Coder | 🌱 Lifelong Learner | 🧠 DSA Enthusiast
 
 Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjoys building dynamic, responsive, and scalable web applications. Alongside full-stack development, I'm passionate about solving Data Structures and Algorithms (DSA) problems on platforms like LeetCode and GeeksforGeeks to sharpen my problem-solving skills.
