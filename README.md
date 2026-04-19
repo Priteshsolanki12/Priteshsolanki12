@@ -24,6 +24,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 <p align="center">
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="jyot" height="100" width="100" /></a>
 </p>
 
 
