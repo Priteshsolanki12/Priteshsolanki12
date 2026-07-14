@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pritesh%20Solanki%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%20%20&descSize=18&descAlignY=55&textBg=false"/>
-</div>
+<h1 align="center">Hi 👋, I'm Pritesh Solanki</h1>
+<h3 align="center">A passionate software developer from India</h3>
+
+
 
 ## 👨‍💻 About Me
 
@@ -64,9 +65,11 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 ---
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priteshsolanki12/Priteshsolanki12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priteshsolanki12/Priteshsolanki12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Priteshsolanki12/Priteshsolanki12/output/pacman-contribution-graph.svg">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
