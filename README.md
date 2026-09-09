@@ -25,9 +25,9 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="jyot" height="100" width="100" /></a>
+ <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="jyot" height="100" width="100" /></a>
 
-      <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="[https://assets.leetcode.com/static_assets/others/50.gif](https://assets.leetcode.com/static_assets/others/100.gif
-)" alt="jyot" height="100" width="100" /></a>
+
 
 </p>
 
@@ -56,8 +56,6 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priteshsolanki12&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Priteshsolanki12&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)
-
-
 
 </div>
 
