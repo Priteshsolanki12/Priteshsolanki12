@@ -14,7 +14,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 🔧 Focused on writing clean, efficient, and maintainable code
 🧩 Actively practicing DSA to improve coding logic and efficiency
 🌐 Enthusiastic about modern web technologies and backend systems
-📚 Always learning, building, and contributing to open source
+
 
 
 ## 🌐 Socials:
