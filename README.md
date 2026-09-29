@@ -21,7 +21,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritesh_x07_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankipritesh226@gmail.com)
 
 <div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">Leetcode Info :<h2>  
 <p align="center">
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/Pritesh_x07_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
