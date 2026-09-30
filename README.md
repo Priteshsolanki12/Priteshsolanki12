@@ -46,7 +46,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 
 
-## 📈 GitHub Contribution Chart
+## 📈 GitHub Contribution Chart :
 
 
 
