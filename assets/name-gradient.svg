@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="140"
+     viewBox="0 0 1000 140">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#008CFF"/>
+      <stop offset="25%" stop-color="#008CFF"/>
+      <stop offset="50%" stop-color="#5558FF"/>
+      <stop offset="75%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#008CFF"/>
+      <animate attributeName="x1" values="-200%;0%;-200%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="92"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="65"
+        font-weight="700"
+        fill="url(#gradient)">Hi 👋, I'm Pritesh Solanki</text>
+</svg>
