@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000"
-     height="140"
-     viewBox="0 0 1000 140">
+     width="1000" height="140" viewBox="0 0 1000 140"
+     style="background: transparent;">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#008CFF"/>
@@ -15,8 +14,9 @@
   </defs>
   <text x="50%" y="92"
         text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
+        font-family="Arial Black, Arial, Helvetica, sans-serif"
         font-size="65"
-        font-weight="700"
+        font-weight="900"
+        letter-spacing="-1.2"
         fill="url(#gradient)">Hi 👋, I'm Pritesh Solanki</text>
 </svg>
