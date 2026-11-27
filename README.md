@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pritesh Solanki</h1>
+<p align="center">
+  <img
+    src="assets/name-gradient.svg"
+    width="100%"
+    alt="Hi, I'm Pritesh Solanki"
+  />
+</p>
 <h3 align="center">A passionate software developer from India</h3>
 
 
